@@ -1,6 +1,6 @@
-t_total(10).
+t_total(250). // Tokens
 t_counter(1).
-w_total(500).
+w_total(500). // Workers
 ended(0).
 !init_all.
 
