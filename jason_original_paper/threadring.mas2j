@@ -1,0 +1,8 @@
+MAS threadring {
+
+	infrastructure: Centralised(pool,8)
+
+	agents:
+		thread #500;
+		counter;
+}
